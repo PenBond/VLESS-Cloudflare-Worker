@@ -7,11 +7,25 @@ https://www.uuidgenerator.net/
 ----------------------------------------
 2. PROXYIP
 ----------------------------------------
-https://www.shodan.io/
- - Create an account
- - Port:443, Copy and Paste this in search: http.html_hash:141477257 port:443
- - Port:80, Copy and Paste this in search: port:80 product:"CloudFlare" title:"Direct IP access not allowed"
+  A. https://www.shodan.io/
+   - Create an account
+   - Port:443, Copy and Paste this in search: http.html_hash:141477257 port:443
+   - Port:80, Copy and Paste this in search: port:80 product:"CloudFlare" title:"Direct IP access not allowed"
+  B.Some Popular Proxy IP:
+   - proxyip.oracle.fxxk.dedyn.io
+   - proxyip.hk.fxxk.dedyn.io
+   - proxyip.jp.fxxk.dedyn.io
+   - proxyip.kr.fxxk.dedyn.io
+----------------------------------------
+2. Server IP (For generated VLESS Node inside V2ray or Nekobox)
+----------------------------------------
+ - www.visa.com.sg
+ - www.visa.com.tw
+ - www.cloudflare.com
+----------------------------------------
+Thank You 🙏
 ----------------------------------------
 Notes:
  - This is the modified version of [edgetunel](https://github.com/cmliu/edgetunnel)
  - For More information visit the link above
+----------------------------------------
