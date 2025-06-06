@@ -12,5 +12,6 @@ https://www.shodan.io/
  - Port:443, Copy and Paste this in search: http.html_hash:141477257 port:443
  - Port:80, Copy and Paste this in search: port:80 product:"CloudFlare" title:"Direct IP access not allowed"
 ----------------------------------------
-Notes;
-this is the modified version of [edgetunel](https://github.com/cmliu/edgetunnel)
+Notes:
+ - This is the modified version of [edgetunel](https://github.com/cmliu/edgetunnel)
+ - For More information visit the link above
