@@ -27,6 +27,7 @@ https://www.uuidgenerator.net/
 Thank You 🙏
 ----------------------------------------
 Notes:
+ - Recommended to be used with Cloudflare Worker
  - This is the modified version of [edgetunel](https://github.com/cmliu/edgetunnel)
  - For More information visit the link above
 ----------------------------------------
